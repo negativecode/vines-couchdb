@@ -2,7 +2,7 @@ Gem::Specification.new do |s|
   s.name         = 'vines-couchdb'
   s.version      = '0.1.0'
   s.summary      = %q[Provides an Apache CouchDB storage adapter for the Vines XMPP chat server.]
-  s.description  = %q[Provides an Apache CouchDB storage adapter for the Vines XMPP chat server.]
+  s.description  = %q[Stores Vines user data in Apache CouchDB.]
 
   s.authors      = ['David Graham']
   s.email        = %w[david@negativecode.com]
