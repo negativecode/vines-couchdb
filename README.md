@@ -19,7 +19,7 @@ $ cd wonderland.lit && vines start
 Add the following configuration block to a virtual host definition in
 the server's `conf/config.rb` file.
 
-``` ruby
+```ruby
 storage 'couchdb' do
   host 'localhost'
   port 6984
